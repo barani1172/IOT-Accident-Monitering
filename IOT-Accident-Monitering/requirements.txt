@@ -1,0 +1,10 @@
+numpy
+six
+tensorflow
+zipfile
+requests
+json
+time
+PIL
+matplotlib
+cv2
